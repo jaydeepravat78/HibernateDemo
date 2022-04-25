@@ -1,0 +1,588 @@
+12:51:17,394  INFO Main:22 - Enter 1 to add a student
+  12:51:17,397  INFO Main:23 - Enter 2 to update a student marks
+  12:51:17,398  INFO Main:24 - Enter 3 to delete a student
+  12:51:17,398  INFO Main:25 - Enter 4 to view all students
+  12:51:17,398  INFO Main:26 - Enter 5 to see failed students
+  12:51:17,398  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  12:51:17,398  INFO Main:28 - Enter 7 to see all students name
+  12:51:17,398  INFO Main:29 - Enter 8 to exit
+  14:44:26,786  INFO Main:22 - Enter 1 to add a student
+  14:44:26,788  INFO Main:23 - Enter 2 to update a student marks
+  14:44:26,788  INFO Main:24 - Enter 3 to delete a student
+  14:44:26,788  INFO Main:25 - Enter 4 to view all students
+  14:44:26,788  INFO Main:26 - Enter 5 to see failed students
+  14:44:26,788  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:44:26,788  INFO Main:28 - Enter 7 to see all students name
+  14:44:26,788  INFO Main:29 - Enter 8 to exit
+  14:44:29,645  INFO Main:68 - All student data:
+  14:44:29,852  INFO StudentDaoImpl:74 - Student Details
+  14:44:29,852  INFO StudentDaoImpl:76 - Jay 1 80.0
+  14:44:29,863  INFO StudentDaoImpl:79 - Address: abc abc abc
+  14:44:29,863  INFO StudentDaoImpl:76 - Ram 2 33.0
+  14:44:29,865  INFO StudentDaoImpl:79 - Address: abc abc abc
+  14:44:29,867  INFO Main:22 - Enter 1 to add a student
+  14:44:29,867  INFO Main:23 - Enter 2 to update a student marks
+  14:44:29,868  INFO Main:24 - Enter 3 to delete a student
+  14:44:29,868  INFO Main:25 - Enter 4 to view all students
+  14:44:29,868  INFO Main:26 - Enter 5 to see failed students
+  14:44:29,868  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:44:29,868  INFO Main:28 - Enter 7 to see all students name
+  14:44:29,868  INFO Main:29 - Enter 8 to exit
+  14:44:39,554  INFO Main:72 - Failed students:
+  14:44:39,571  INFO StudentDaoImpl:115 - Student Details
+  14:44:39,571  INFO StudentDaoImpl:117 - Ram 2 33.0
+  14:44:39,573  INFO StudentDaoImpl:120 - Address: abc abc abc
+  14:44:39,573  INFO Main:22 - Enter 1 to add a student
+  14:44:39,574  INFO Main:23 - Enter 2 to update a student marks
+  14:44:39,574  INFO Main:24 - Enter 3 to delete a student
+  14:44:39,574  INFO Main:25 - Enter 4 to view all students
+  14:44:39,574  INFO Main:26 - Enter 5 to see failed students
+  14:44:39,574  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:44:39,574  INFO Main:28 - Enter 7 to see all students name
+  14:44:39,574  INFO Main:29 - Enter 8 to exit
+  14:44:47,090  INFO Main:76 - Ascending order list of students:
+  14:44:47,093  INFO StudentDaoImpl:136 - Student Details
+  14:44:47,094  INFO StudentDaoImpl:138 - Jay 1 80.0
+  14:44:47,096  INFO StudentDaoImpl:141 - Address: abc abc abc
+  14:44:47,096  INFO StudentDaoImpl:138 - Ram 2 33.0
+  14:44:47,098  INFO StudentDaoImpl:141 - Address: abc abc abc
+  14:44:47,098  INFO Main:22 - Enter 1 to add a student
+  14:44:47,099  INFO Main:23 - Enter 2 to update a student marks
+  14:44:47,099  INFO Main:24 - Enter 3 to delete a student
+  14:44:47,099  INFO Main:25 - Enter 4 to view all students
+  14:44:47,099  INFO Main:26 - Enter 5 to see failed students
+  14:44:47,099  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:44:47,099  INFO Main:28 - Enter 7 to see all students name
+  14:44:47,099  INFO Main:29 - Enter 8 to exit
+  14:44:54,162  INFO Main:80 - All students name:
+  14:44:54,167  INFO StudentDaoImpl:157 - Student Details
+  14:44:54,167  INFO StudentDaoImpl:159 - Jay
+  14:44:54,168  INFO StudentDaoImpl:159 - Ram
+  14:44:54,168  INFO Main:22 - Enter 1 to add a student
+  14:44:54,168  INFO Main:23 - Enter 2 to update a student marks
+  14:44:54,168  INFO Main:24 - Enter 3 to delete a student
+  14:44:54,168  INFO Main:25 - Enter 4 to view all students
+  14:44:54,168  INFO Main:26 - Enter 5 to see failed students
+  14:44:54,168  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:44:54,168  INFO Main:28 - Enter 7 to see all students name
+  14:44:54,169  INFO Main:29 - Enter 8 to exit
+  14:46:33,406  INFO Main:22 - Enter 1 to add a student
+  14:46:33,408  INFO Main:23 - Enter 2 to update a student marks
+  14:46:33,408  INFO Main:24 - Enter 3 to delete a student
+  14:46:33,408  INFO Main:25 - Enter 4 to view all students
+  14:46:33,409  INFO Main:26 - Enter 5 to see failed students
+  14:46:33,409  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:46:33,409  INFO Main:28 - Enter 7 to see all students name
+  14:46:33,409  INFO Main:29 - Enter 8 to exit
+  14:47:30,930  INFO Main:22 - Enter 1 to add a student
+  14:47:30,932  INFO Main:23 - Enter 2 to update a student marks
+  14:47:30,932  INFO Main:24 - Enter 3 to delete a student
+  14:47:30,932  INFO Main:25 - Enter 4 to view all students
+  14:47:30,932  INFO Main:26 - Enter 5 to see failed students
+  14:47:30,932  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  14:47:30,932  INFO Main:28 - Enter 7 to see all students name
+  14:47:30,932  INFO Main:29 - Enter 8 to exit
+  15:01:28,102  INFO Main:22 - Enter 1 to add a student
+  15:01:28,104  INFO Main:23 - Enter 2 to update a student marks
+  15:01:28,104  INFO Main:24 - Enter 3 to delete a student
+  15:01:28,104  INFO Main:25 - Enter 4 to view all students
+  15:01:28,104  INFO Main:26 - Enter 5 to see failed students
+  15:01:28,104  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  15:01:28,105  INFO Main:28 - Enter 7 to see all students name
+  15:01:28,105  INFO Main:29 - Enter 8 to exit
+  15:31:48,934  INFO Main:22 - Enter 1 to add a student
+  15:31:48,940  INFO Main:23 - Enter 2 to update a student marks
+  15:31:48,940  INFO Main:24 - Enter 3 to delete a student
+  15:31:48,941  INFO Main:25 - Enter 4 to view all students
+  15:31:48,941  INFO Main:26 - Enter 5 to see failed students
+  15:31:48,941  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  15:31:48,941  INFO Main:28 - Enter 7 to see all students name
+  15:31:48,942  INFO Main:29 - Enter 8 to exit
+  15:31:51,961  INFO Main:80 - All students name:
+  16:20:24,820  INFO Main:22 - Enter 1 to add a student
+  16:20:24,824  INFO Main:23 - Enter 2 to update a student marks
+  16:20:24,824  INFO Main:24 - Enter 3 to delete a student
+  16:20:24,824  INFO Main:25 - Enter 4 to view all students
+  16:20:24,824  INFO Main:26 - Enter 5 to see failed students
+  16:20:24,824  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:20:24,825  INFO Main:28 - Enter 7 to see all students name
+  16:20:24,825  INFO Main:29 - Enter 8 to exit
+  16:30:50,668  INFO Main:22 - Enter 1 to add a student
+  16:30:50,670  INFO Main:23 - Enter 2 to update a student marks
+  16:30:50,670  INFO Main:24 - Enter 3 to delete a student
+  16:30:50,670  INFO Main:25 - Enter 4 to view all students
+  16:30:50,670  INFO Main:26 - Enter 5 to see failed students
+  16:30:50,670  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:30:50,671  INFO Main:28 - Enter 7 to see all students name
+  16:30:50,671  INFO Main:29 - Enter 8 to exit
+  16:31:00,800  INFO Main:80 - All students name:
+  16:31:01,016  INFO StudentDaoImpl:178 - Student Details
+  16:31:01,016  INFO StudentDaoImpl:180 - Jay
+  16:31:01,017  INFO StudentDaoImpl:180 - Raj
+  16:31:01,017  INFO StudentDaoImpl:180 - Shaam
+  16:31:01,017  INFO StudentDaoImpl:180 - Ram
+  16:31:01,018  INFO Main:22 - Enter 1 to add a student
+  16:31:01,018  INFO Main:23 - Enter 2 to update a student marks
+  16:31:01,019  INFO Main:24 - Enter 3 to delete a student
+  16:31:01,019  INFO Main:25 - Enter 4 to view all students
+  16:31:01,019  INFO Main:26 - Enter 5 to see failed students
+  16:31:01,019  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:31:01,019  INFO Main:28 - Enter 7 to see all students name
+  16:31:01,019  INFO Main:29 - Enter 8 to exit
+  16:31:42,991  INFO Main:22 - Enter 1 to add a student
+  16:31:42,993  INFO Main:23 - Enter 2 to update a student marks
+  16:31:42,993  INFO Main:24 - Enter 3 to delete a student
+  16:31:42,993  INFO Main:25 - Enter 4 to view all students
+  16:31:42,994  INFO Main:26 - Enter 5 to see failed students
+  16:31:42,994  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:31:42,994  INFO Main:28 - Enter 7 to see all students name
+  16:31:42,994  INFO Main:29 - Enter 8 to exit
+  16:36:08,052  INFO Main:22 - Enter 1 to add a student
+  16:36:08,054  INFO Main:23 - Enter 2 to update a student marks
+  16:36:08,054  INFO Main:24 - Enter 3 to delete a student
+  16:36:08,054  INFO Main:25 - Enter 4 to view all students
+  16:36:08,054  INFO Main:26 - Enter 5 to see failed students
+  16:36:08,054  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:36:08,054  INFO Main:28 - Enter 7 to see all students name
+  16:36:08,054  INFO Main:29 - Enter 8 to exit
+  16:36:10,894  INFO Main:76 - Ascending order list of students:
+  16:36:11,099  INFO StudentDaoImpl:159 - Student Details
+  16:36:11,100  INFO StudentDaoImpl:161 - Raj 2 95.0
+  16:37:34,295  INFO Main:22 - Enter 1 to add a student
+  16:37:34,297  INFO Main:23 - Enter 2 to update a student marks
+  16:37:34,297  INFO Main:24 - Enter 3 to delete a student
+  16:37:34,298  INFO Main:25 - Enter 4 to view all students
+  16:37:34,298  INFO Main:26 - Enter 5 to see failed students
+  16:37:34,298  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:37:34,298  INFO Main:28 - Enter 7 to see all students name
+  16:37:34,298  INFO Main:29 - Enter 8 to exit
+  16:37:37,616  INFO Main:76 - Ascending order list of students:
+  16:37:37,812  INFO StudentDaoImpl:159 - Student Details
+  16:37:37,812  INFO StudentDaoImpl:161 - Raj 2 95.0
+  16:38:01,542  INFO Main:22 - Enter 1 to add a student
+  16:38:01,544  INFO Main:23 - Enter 2 to update a student marks
+  16:38:01,544  INFO Main:24 - Enter 3 to delete a student
+  16:38:01,544  INFO Main:25 - Enter 4 to view all students
+  16:38:01,544  INFO Main:26 - Enter 5 to see failed students
+  16:38:01,544  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:38:01,544  INFO Main:28 - Enter 7 to see all students name
+  16:38:01,544  INFO Main:29 - Enter 8 to exit
+  16:38:06,114  INFO Main:76 - Ascending order list of students:
+  16:38:06,319  INFO StudentDaoImpl:159 - Student Details
+  16:38:06,320  INFO StudentDaoImpl:161 - Raj 2 95.0
+  16:38:06,320  INFO StudentDaoImpl:161 - Jay 1 90.0
+  16:38:06,320  INFO StudentDaoImpl:161 - Shaam 4 70.0
+  16:38:06,320  INFO StudentDaoImpl:161 - Ram 6 50.75
+  16:38:06,321  INFO Main:22 - Enter 1 to add a student
+  16:38:06,321  INFO Main:23 - Enter 2 to update a student marks
+  16:38:06,321  INFO Main:24 - Enter 3 to delete a student
+  16:38:06,321  INFO Main:25 - Enter 4 to view all students
+  16:38:06,321  INFO Main:26 - Enter 5 to see failed students
+  16:38:06,322  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:38:06,322  INFO Main:28 - Enter 7 to see all students name
+  16:38:06,322  INFO Main:29 - Enter 8 to exit
+  16:43:39,550  INFO Main:22 - Enter 1 to add a student
+  16:43:39,552  INFO Main:23 - Enter 2 to update a student marks
+  16:43:39,552  INFO Main:24 - Enter 3 to delete a student
+  16:43:39,552  INFO Main:25 - Enter 4 to view all students
+  16:43:39,552  INFO Main:26 - Enter 5 to see failed students
+  16:43:39,552  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:43:39,552  INFO Main:28 - Enter 7 to see all students name
+  16:43:39,552  INFO Main:29 - Enter 8 to exit
+  16:43:43,776  INFO Main:72 - Failed students:
+  16:43:43,963  INFO StudentDaoImpl:133 - Student Details
+  16:43:43,963  INFO Main:22 - Enter 1 to add a student
+  16:43:43,963  INFO Main:23 - Enter 2 to update a student marks
+  16:43:43,963  INFO Main:24 - Enter 3 to delete a student
+  16:43:43,964  INFO Main:25 - Enter 4 to view all students
+  16:43:43,964  INFO Main:26 - Enter 5 to see failed students
+  16:43:43,964  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:43:43,965  INFO Main:28 - Enter 7 to see all students name
+  16:43:43,965  INFO Main:29 - Enter 8 to exit
+  16:43:51,317  INFO Main:34 - Enter name of student
+  16:43:55,425  INFO Main:36 - Enter marks of student: 
+  16:43:56,243  INFO Main:38 - Enter the number of addresses of student:
+  16:43:58,697  INFO Main:43 - Enter street: 
+  16:44:00,386  INFO Main:45 - Enter city: 
+  16:44:01,393  INFO Main:47 - Enter State: 
+  16:44:02,109  INFO StudentDaoImpl:46 - Student added successfully
+  16:44:02,110  INFO Main:22 - Enter 1 to add a student
+  16:44:02,111  INFO Main:23 - Enter 2 to update a student marks
+  16:44:02,111  INFO Main:24 - Enter 3 to delete a student
+  16:44:02,111  INFO Main:25 - Enter 4 to view all students
+  16:44:02,111  INFO Main:26 - Enter 5 to see failed students
+  16:44:02,111  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:44:02,111  INFO Main:28 - Enter 7 to see all students name
+  16:44:02,111  INFO Main:29 - Enter 8 to exit
+  16:44:06,603  INFO Main:72 - Failed students:
+  16:44:06,607  INFO StudentDaoImpl:133 - Student Details
+  16:44:06,607  INFO Main:22 - Enter 1 to add a student
+  16:44:06,607  INFO Main:23 - Enter 2 to update a student marks
+  16:44:06,607  INFO Main:24 - Enter 3 to delete a student
+  16:44:06,607  INFO Main:25 - Enter 4 to view all students
+  16:44:06,607  INFO Main:26 - Enter 5 to see failed students
+  16:44:06,607  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:44:06,608  INFO Main:28 - Enter 7 to see all students name
+  16:44:06,608  INFO Main:29 - Enter 8 to exit
+  16:50:35,199  INFO Main:22 - Enter 1 to add a student
+  16:50:35,201  INFO Main:23 - Enter 2 to update a student marks
+  16:50:35,201  INFO Main:24 - Enter 3 to delete a student
+  16:50:35,201  INFO Main:25 - Enter 4 to view all students
+  16:50:35,201  INFO Main:26 - Enter 5 to see failed students
+  16:50:35,201  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:50:35,202  INFO Main:28 - Enter 7 to see all students name
+  16:50:35,202  INFO Main:29 - Enter 8 to exit
+  16:50:39,176  INFO Main:72 - Failed students:
+  16:50:39,376  INFO StudentDaoImpl:134 - Student Details
+  16:50:39,377  INFO Main:22 - Enter 1 to add a student
+  16:50:39,377  INFO Main:23 - Enter 2 to update a student marks
+  16:50:39,377  INFO Main:24 - Enter 3 to delete a student
+  16:50:39,377  INFO Main:25 - Enter 4 to view all students
+  16:50:39,377  INFO Main:26 - Enter 5 to see failed students
+  16:50:39,377  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:50:39,378  INFO Main:28 - Enter 7 to see all students name
+  16:50:39,378  INFO Main:29 - Enter 8 to exit
+  16:51:23,232  INFO Main:22 - Enter 1 to add a student
+  16:51:23,233  INFO Main:23 - Enter 2 to update a student marks
+  16:51:23,233  INFO Main:24 - Enter 3 to delete a student
+  16:51:23,234  INFO Main:25 - Enter 4 to view all students
+  16:51:23,234  INFO Main:26 - Enter 5 to see failed students
+  16:51:23,234  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:51:23,234  INFO Main:28 - Enter 7 to see all students name
+  16:51:23,234  INFO Main:29 - Enter 8 to exit
+  16:51:25,233  INFO Main:72 - Failed students:
+  16:51:25,440  INFO StudentDaoImpl:134 - Student Details
+  16:51:25,441  INFO Main:22 - Enter 1 to add a student
+  16:51:25,441  INFO Main:23 - Enter 2 to update a student marks
+  16:51:25,441  INFO Main:24 - Enter 3 to delete a student
+  16:51:25,441  INFO Main:25 - Enter 4 to view all students
+  16:51:25,441  INFO Main:26 - Enter 5 to see failed students
+  16:51:25,441  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:51:25,443  INFO Main:28 - Enter 7 to see all students name
+  16:51:25,443  INFO Main:29 - Enter 8 to exit
+  16:52:18,545  INFO Main:22 - Enter 1 to add a student
+  16:52:18,548  INFO Main:23 - Enter 2 to update a student marks
+  16:52:18,548  INFO Main:24 - Enter 3 to delete a student
+  16:52:18,548  INFO Main:25 - Enter 4 to view all students
+  16:52:18,548  INFO Main:26 - Enter 5 to see failed students
+  16:52:18,548  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:52:18,549  INFO Main:28 - Enter 7 to see all students name
+  16:52:18,549  INFO Main:29 - Enter 8 to exit
+  16:52:20,740  INFO Main:72 - Failed students:
+  16:52:20,938  INFO StudentDaoImpl:134 - 0
+  16:52:20,938  INFO StudentDaoImpl:135 - Student Details
+  16:52:20,939  INFO Main:22 - Enter 1 to add a student
+  16:52:20,939  INFO Main:23 - Enter 2 to update a student marks
+  16:52:20,939  INFO Main:24 - Enter 3 to delete a student
+  16:52:20,939  INFO Main:25 - Enter 4 to view all students
+  16:52:20,939  INFO Main:26 - Enter 5 to see failed students
+  16:52:20,941  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:52:20,941  INFO Main:28 - Enter 7 to see all students name
+  16:52:20,941  INFO Main:29 - Enter 8 to exit
+  16:53:36,043  INFO Main:22 - Enter 1 to add a student
+  16:53:36,045  INFO Main:23 - Enter 2 to update a student marks
+  16:53:36,045  INFO Main:24 - Enter 3 to delete a student
+  16:53:36,045  INFO Main:25 - Enter 4 to view all students
+  16:53:36,045  INFO Main:26 - Enter 5 to see failed students
+  16:53:36,046  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:53:36,046  INFO Main:28 - Enter 7 to see all students name
+  16:53:36,046  INFO Main:29 - Enter 8 to exit
+  16:53:38,687  INFO Main:72 - Failed students:
+  16:53:38,888  INFO StudentDaoImpl:134 - 4
+  16:53:38,889  INFO StudentDaoImpl:135 - Student Details
+  16:53:38,889  INFO StudentDaoImpl:137 - Jay 1 90.0
+  16:53:38,889  INFO StudentDaoImpl:137 - Raj 2 95.0
+  16:53:38,889  INFO StudentDaoImpl:137 - Shaam 4 70.0
+  16:53:38,889  INFO StudentDaoImpl:137 - Ram 6 50.75
+  16:53:38,890  INFO Main:22 - Enter 1 to add a student
+  16:53:38,891  INFO Main:23 - Enter 2 to update a student marks
+  16:53:38,891  INFO Main:24 - Enter 3 to delete a student
+  16:53:38,891  INFO Main:25 - Enter 4 to view all students
+  16:53:38,891  INFO Main:26 - Enter 5 to see failed students
+  16:53:38,891  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:53:38,891  INFO Main:28 - Enter 7 to see all students name
+  16:53:38,891  INFO Main:29 - Enter 8 to exit
+  16:54:13,062  INFO Main:22 - Enter 1 to add a student
+  16:54:13,064  INFO Main:23 - Enter 2 to update a student marks
+  16:54:13,064  INFO Main:24 - Enter 3 to delete a student
+  16:54:13,064  INFO Main:25 - Enter 4 to view all students
+  16:54:13,064  INFO Main:26 - Enter 5 to see failed students
+  16:54:13,065  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:54:13,065  INFO Main:28 - Enter 7 to see all students name
+  16:54:13,065  INFO Main:29 - Enter 8 to exit
+  16:54:14,923  INFO Main:72 - Failed students:
+  16:54:15,126  INFO StudentDaoImpl:134 - 0
+  16:54:15,126  INFO StudentDaoImpl:135 - Student Details
+  16:54:15,127  INFO Main:22 - Enter 1 to add a student
+  16:54:15,127  INFO Main:23 - Enter 2 to update a student marks
+  16:54:15,127  INFO Main:24 - Enter 3 to delete a student
+  16:54:15,127  INFO Main:25 - Enter 4 to view all students
+  16:54:15,128  INFO Main:26 - Enter 5 to see failed students
+  16:54:15,128  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  16:54:15,128  INFO Main:28 - Enter 7 to see all students name
+  16:54:15,128  INFO Main:29 - Enter 8 to exit
+  17:00:08,283  INFO Main:22 - Enter 1 to add a student
+  17:00:08,285  INFO Main:23 - Enter 2 to update a student marks
+  17:00:08,286  INFO Main:24 - Enter 3 to delete a student
+  17:00:08,286  INFO Main:25 - Enter 4 to view all students
+  17:00:08,286  INFO Main:26 - Enter 5 to see failed students
+  17:00:08,287  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:00:08,287  INFO Main:28 - Enter 7 to see all students name
+  17:00:08,287  INFO Main:29 - Enter 8 to exit
+  17:00:14,479  INFO Main:80 - All students name:
+  17:00:14,657  INFO StudentDaoImpl:186 - Student Details
+  17:00:14,657  INFO StudentDaoImpl:188 - Jay
+  17:00:14,658  INFO StudentDaoImpl:188 - Raj
+  17:00:14,659  INFO StudentDaoImpl:188 - Shaam
+  17:00:14,661  INFO StudentDaoImpl:188 - Ram
+  17:00:14,662  INFO Main:22 - Enter 1 to add a student
+  17:00:14,662  INFO Main:23 - Enter 2 to update a student marks
+  17:00:14,663  INFO Main:24 - Enter 3 to delete a student
+  17:00:14,663  INFO Main:25 - Enter 4 to view all students
+  17:00:14,664  INFO Main:26 - Enter 5 to see failed students
+  17:00:14,664  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:00:14,665  INFO Main:28 - Enter 7 to see all students name
+  17:00:14,665  INFO Main:29 - Enter 8 to exit
+  17:00:18,915  INFO Main:68 - All student data:
+  17:00:18,975  INFO StudentDaoImpl:85 - Student Details: 
+  17:00:18,975  INFO StudentDaoImpl:87 - Jay 1 80.0
+  17:00:18,993  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:00:18,993  INFO StudentDaoImpl:87 - Ram 2 33.0
+  17:00:18,996  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:00:18,997  INFO StudentDaoImpl:87 - Shaam 3 33.0
+  17:00:18,999  INFO StudentDaoImpl:90 - Address: sample sample test
+  17:00:19,002  INFO Main:22 - Enter 1 to add a student
+  17:00:19,003  INFO Main:23 - Enter 2 to update a student marks
+  17:00:19,003  INFO Main:24 - Enter 3 to delete a student
+  17:00:19,004  INFO Main:25 - Enter 4 to view all students
+  17:00:19,004  INFO Main:26 - Enter 5 to see failed students
+  17:00:19,004  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:00:19,004  INFO Main:28 - Enter 7 to see all students name
+  17:00:19,004  INFO Main:29 - Enter 8 to exit
+  17:01:25,793  INFO Main:22 - Enter 1 to add a student
+  17:01:25,796  INFO Main:23 - Enter 2 to update a student marks
+  17:01:25,796  INFO Main:24 - Enter 3 to delete a student
+  17:01:25,796  INFO Main:25 - Enter 4 to view all students
+  17:01:25,796  INFO Main:26 - Enter 5 to see failed students
+  17:01:25,796  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:01:25,796  INFO Main:28 - Enter 7 to see all students name
+  17:01:25,796  INFO Main:29 - Enter 8 to exit
+  17:01:28,463  INFO Main:80 - All students name:
+  17:01:28,643  INFO StudentDaoImpl:186 - Student Details
+  17:01:28,643  INFO StudentDaoImpl:188 - Jay
+  17:01:28,643  INFO StudentDaoImpl:188 - Raj
+  17:01:28,643  INFO StudentDaoImpl:188 - Shaam
+  17:01:28,643  INFO StudentDaoImpl:188 - Ram
+  17:01:28,644  INFO Main:22 - Enter 1 to add a student
+  17:01:28,644  INFO Main:23 - Enter 2 to update a student marks
+  17:01:28,645  INFO Main:24 - Enter 3 to delete a student
+  17:01:28,645  INFO Main:25 - Enter 4 to view all students
+  17:01:28,645  INFO Main:26 - Enter 5 to see failed students
+  17:01:28,645  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:01:28,645  INFO Main:28 - Enter 7 to see all students name
+  17:01:28,645  INFO Main:29 - Enter 8 to exit
+  17:01:33,588  INFO Main:68 - All student data:
+  17:01:33,633  INFO StudentDaoImpl:85 - Student Details: 
+  17:01:33,633  INFO StudentDaoImpl:87 - Jay 1 80.0
+  17:01:33,645  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:01:33,646  INFO StudentDaoImpl:87 - Ram 2 33.0
+  17:01:33,648  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:01:33,648  INFO StudentDaoImpl:87 - Shaam 3 33.0
+  17:01:33,649  INFO StudentDaoImpl:90 - Address: sample sample test
+  17:01:33,651  INFO Main:22 - Enter 1 to add a student
+  17:01:33,651  INFO Main:23 - Enter 2 to update a student marks
+  17:01:33,651  INFO Main:24 - Enter 3 to delete a student
+  17:01:33,651  INFO Main:25 - Enter 4 to view all students
+  17:01:33,651  INFO Main:26 - Enter 5 to see failed students
+  17:01:33,651  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:01:33,651  INFO Main:28 - Enter 7 to see all students name
+  17:01:33,651  INFO Main:29 - Enter 8 to exit
+  17:04:10,693  INFO Main:22 - Enter 1 to add a student
+  17:04:10,695  INFO Main:23 - Enter 2 to update a student marks
+  17:04:10,695  INFO Main:24 - Enter 3 to delete a student
+  17:04:10,695  INFO Main:25 - Enter 4 to view all students
+  17:04:10,695  INFO Main:26 - Enter 5 to see failed students
+  17:04:10,695  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:04:10,695  INFO Main:28 - Enter 7 to see all students name
+  17:04:10,696  INFO Main:29 - Enter 8 to exit
+  17:04:13,122  INFO Main:68 - All student data:
+  17:04:13,293  INFO StudentDaoImpl:85 - Student Details: 
+  17:04:13,293  INFO StudentDaoImpl:87 - Jay 1 90.0
+  17:04:13,303  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:04:13,303  INFO StudentDaoImpl:87 - Raj 2 95.0
+  17:04:13,306  INFO StudentDaoImpl:90 - Address: abc abc abc
+  17:04:13,306  INFO StudentDaoImpl:87 - Shaam 4 70.0
+  17:04:13,307  INFO StudentDaoImpl:87 - Ram 6 50.75
+  17:04:13,311  INFO Main:22 - Enter 1 to add a student
+  17:04:13,311  INFO Main:23 - Enter 2 to update a student marks
+  17:04:13,311  INFO Main:24 - Enter 3 to delete a student
+  17:04:13,312  INFO Main:25 - Enter 4 to view all students
+  17:04:13,312  INFO Main:26 - Enter 5 to see failed students
+  17:04:13,312  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:04:13,312  INFO Main:28 - Enter 7 to see all students name
+  17:04:13,312  INFO Main:29 - Enter 8 to exit
+  17:04:26,636  INFO Main:80 - All students name:
+  17:04:26,662  INFO StudentDaoImpl:186 - Student Details
+  17:04:26,663  INFO StudentDaoImpl:188 - Jay
+  17:04:26,663  INFO StudentDaoImpl:188 - Raj
+  17:04:26,663  INFO StudentDaoImpl:188 - Shaam
+  17:04:26,663  INFO StudentDaoImpl:188 - Ram
+  17:04:26,663  INFO Main:22 - Enter 1 to add a student
+  17:04:26,663  INFO Main:23 - Enter 2 to update a student marks
+  17:04:26,664  INFO Main:24 - Enter 3 to delete a student
+  17:04:26,664  INFO Main:25 - Enter 4 to view all students
+  17:04:26,664  INFO Main:26 - Enter 5 to see failed students
+  17:04:26,664  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:04:26,664  INFO Main:28 - Enter 7 to see all students name
+  17:04:26,664  INFO Main:29 - Enter 8 to exit
+  17:04:35,796  INFO Main:34 - Enter name of student
+  17:04:39,413  INFO Main:36 - Enter marks of student: 
+  17:04:40,789  INFO Main:38 - Enter the number of addresses of student:
+  17:04:42,833  INFO Main:43 - Enter street: 
+  17:04:44,645  INFO Main:45 - Enter city: 
+  17:04:45,314  INFO Main:47 - Enter State: 
+  17:04:46,075  INFO StudentDaoImpl:47 - Student added successfully
+  17:04:46,076  INFO Main:22 - Enter 1 to add a student
+  17:04:46,076  INFO Main:23 - Enter 2 to update a student marks
+  17:04:46,076  INFO Main:24 - Enter 3 to delete a student
+  17:04:46,076  INFO Main:25 - Enter 4 to view all students
+  17:04:46,076  INFO Main:26 - Enter 5 to see failed students
+  17:04:46,076  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:04:46,076  INFO Main:28 - Enter 7 to see all students name
+  17:04:46,076  INFO Main:29 - Enter 8 to exit
+  17:04:50,574  INFO Main:72 - Failed students:
+  17:04:50,588  INFO StudentDaoImpl:134 - 1
+  17:04:50,588  INFO StudentDaoImpl:135 - Student Details
+  17:04:50,589  INFO StudentDaoImpl:137 - Sam 8 30.0
+  17:04:50,589  INFO Main:22 - Enter 1 to add a student
+  17:04:50,589  INFO Main:23 - Enter 2 to update a student marks
+  17:04:50,589  INFO Main:24 - Enter 3 to delete a student
+  17:04:50,589  INFO Main:25 - Enter 4 to view all students
+  17:04:50,589  INFO Main:26 - Enter 5 to see failed students
+  17:04:50,589  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:04:50,589  INFO Main:28 - Enter 7 to see all students name
+  17:04:50,589  INFO Main:29 - Enter 8 to exit
+  17:31:43,193  INFO Main:22 - Enter 1 to add a student
+  17:31:43,195  INFO Main:23 - Enter 2 to update a student marks
+  17:31:43,195  INFO Main:24 - Enter 3 to delete a student
+  17:31:43,196  INFO Main:25 - Enter 4 to view all students
+  17:31:43,196  INFO Main:26 - Enter 5 to see failed students
+  17:31:43,196  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:31:43,196  INFO Main:28 - Enter 7 to see all students name
+  17:31:43,196  INFO Main:29 - Enter 8 to exit
+  17:38:24,894  INFO Main:22 - Enter 1 to add a student
+  17:38:24,897  INFO Main:23 - Enter 2 to update a student marks
+  17:38:24,897  INFO Main:24 - Enter 3 to delete a student
+  17:38:24,897  INFO Main:25 - Enter 4 to view all students
+  17:38:24,897  INFO Main:26 - Enter 5 to see failed students
+  17:38:24,898  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  17:38:24,898  INFO Main:28 - Enter 7 to see all students name
+  17:38:24,899  INFO Main:29 - Enter 8 to exit
+  12:18:39,496  INFO Main:22 - Enter 1 to add a student
+  12:18:39,498  INFO Main:23 - Enter 2 to update a student marks
+  12:18:39,499  INFO Main:24 - Enter 3 to delete a student
+  12:18:39,499  INFO Main:25 - Enter 4 to view all students
+  12:18:39,499  INFO Main:26 - Enter 5 to see failed students
+  12:18:39,499  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  12:18:39,500  INFO Main:28 - Enter 7 to see all students name
+  12:18:39,500  INFO Main:29 - Enter 8 to exit
+  19:15:08,257  INFO Main:22 - Enter 1 to add a student
+  19:15:08,260  INFO Main:23 - Enter 2 to update a student marks
+  19:15:08,260  INFO Main:24 - Enter 3 to delete a student
+  19:15:08,261  INFO Main:25 - Enter 4 to view all students
+  19:15:08,261  INFO Main:26 - Enter 5 to see failed students
+  19:15:08,261  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:15:08,261  INFO Main:28 - Enter 7 to see all students name
+  19:15:08,262  INFO Main:29 - Enter 8 to exit
+  19:15:19,425  INFO Main:72 - Failed students:
+  19:15:19,656  INFO StudentDaoImpl:134 - 0
+  19:15:19,657  INFO StudentDaoImpl:135 - Student Details
+  19:15:19,658  INFO Main:22 - Enter 1 to add a student
+  19:15:19,658  INFO Main:23 - Enter 2 to update a student marks
+  19:15:19,658  INFO Main:24 - Enter 3 to delete a student
+  19:15:19,658  INFO Main:25 - Enter 4 to view all students
+  19:15:19,659  INFO Main:26 - Enter 5 to see failed students
+  19:15:19,659  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:15:19,660  INFO Main:28 - Enter 7 to see all students name
+  19:15:19,660  INFO Main:29 - Enter 8 to exit
+  19:15:24,900  INFO Main:68 - All student data:
+  19:15:24,939  INFO StudentDaoImpl:85 - Student Details: 
+  19:15:24,940  INFO Main:22 - Enter 1 to add a student
+  19:15:24,942  INFO Main:23 - Enter 2 to update a student marks
+  19:15:24,944  INFO Main:24 - Enter 3 to delete a student
+  19:15:24,944  INFO Main:25 - Enter 4 to view all students
+  19:15:24,945  INFO Main:26 - Enter 5 to see failed students
+  19:15:24,945  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:15:24,946  INFO Main:28 - Enter 7 to see all students name
+  19:15:24,947  INFO Main:29 - Enter 8 to exit
+  19:15:35,291  INFO Main:34 - Enter name of student
+  19:15:36,926  INFO Main:36 - Enter marks of student: 
+  19:15:39,870  INFO Main:38 - Enter the number of addresses of student:
+  19:15:42,588  INFO Main:43 - Enter street: 
+  19:15:43,755  INFO Main:45 - Enter city: 
+  19:15:45,388  INFO Main:47 - Enter State: 
+  19:15:46,624  INFO StudentDaoImpl:47 - Student added successfully
+  19:15:46,625  INFO Main:22 - Enter 1 to add a student
+  19:15:46,626  INFO Main:23 - Enter 2 to update a student marks
+  19:15:46,629  INFO Main:24 - Enter 3 to delete a student
+  19:15:46,629  INFO Main:25 - Enter 4 to view all students
+  19:15:46,630  INFO Main:26 - Enter 5 to see failed students
+  19:15:46,631  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:15:46,631  INFO Main:28 - Enter 7 to see all students name
+  19:15:46,632  INFO Main:29 - Enter 8 to exit
+  19:15:48,505  INFO Main:68 - All student data:
+  19:15:48,515  INFO StudentDaoImpl:85 - Student Details: 
+  19:15:48,515  INFO StudentDaoImpl:87 - Jay 1 50.0
+  19:15:48,529  INFO StudentDaoImpl:90 - Address: abc abc abc
+  19:15:48,530  INFO Main:22 - Enter 1 to add a student
+  19:15:48,530  INFO Main:23 - Enter 2 to update a student marks
+  19:15:48,533  INFO Main:24 - Enter 3 to delete a student
+  19:15:48,533  INFO Main:25 - Enter 4 to view all students
+  19:15:48,534  INFO Main:26 - Enter 5 to see failed students
+  19:15:48,534  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:15:48,535  INFO Main:28 - Enter 7 to see all students name
+  19:15:48,535  INFO Main:29 - Enter 8 to exit
+  19:16:32,540  INFO Main:22 - Enter 1 to add a student
+  19:16:32,543  INFO Main:23 - Enter 2 to update a student marks
+  19:16:32,544  INFO Main:24 - Enter 3 to delete a student
+  19:16:32,545  INFO Main:25 - Enter 4 to view all students
+  19:16:32,547  INFO Main:26 - Enter 5 to see failed students
+  19:16:32,548  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:16:32,549  INFO Main:28 - Enter 7 to see all students name
+  19:16:32,550  INFO Main:29 - Enter 8 to exit
+  19:16:34,447  INFO Main:68 - All student data:
+  19:16:34,629  INFO StudentDaoImpl:85 - Student Details: 
+  19:16:34,629  INFO StudentDaoImpl:87 - Jay 1 50.0
+  19:16:34,641  INFO StudentDaoImpl:90 - Address: abc abc abc
+  19:16:34,644  INFO Main:22 - Enter 1 to add a student
+  19:16:34,644  INFO Main:23 - Enter 2 to update a student marks
+  19:16:34,645  INFO Main:24 - Enter 3 to delete a student
+  19:16:34,646  INFO Main:25 - Enter 4 to view all students
+  19:16:34,647  INFO Main:26 - Enter 5 to see failed students
+  19:16:34,647  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:16:34,648  INFO Main:28 - Enter 7 to see all students name
+  19:16:34,648  INFO Main:29 - Enter 8 to exit
+  19:16:45,182  INFO Main:56 - Enter Roll number of student: 
+  19:16:47,254  INFO Main:58 - Enter marks of student: 
+  19:16:49,687  INFO StudentDaoImpl:109 - Student data updated
+  19:16:49,688  INFO Main:22 - Enter 1 to add a student
+  19:16:49,689  INFO Main:23 - Enter 2 to update a student marks
+  19:16:49,691  INFO Main:24 - Enter 3 to delete a student
+  19:16:49,693  INFO Main:25 - Enter 4 to view all students
+  19:16:49,694  INFO Main:26 - Enter 5 to see failed students
+  19:16:49,694  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:16:49,695  INFO Main:28 - Enter 7 to see all students name
+  19:16:49,695  INFO Main:29 - Enter 8 to exit
+  19:16:51,562  INFO Main:68 - All student data:
+  19:16:51,565  INFO StudentDaoImpl:85 - Student Details: 
+  19:16:51,566  INFO StudentDaoImpl:87 - Jay 1 69.0
+  19:16:51,569  INFO StudentDaoImpl:90 - Address: abc abc abc
+  19:16:51,569  INFO Main:22 - Enter 1 to add a student
+  19:16:51,570  INFO Main:23 - Enter 2 to update a student marks
+  19:16:51,570  INFO Main:24 - Enter 3 to delete a student
+  19:16:51,571  INFO Main:25 - Enter 4 to view all students
+  19:16:51,571  INFO Main:26 - Enter 5 to see failed students
+  19:16:51,572  INFO Main:27 - Enter 6 to see students in ascending order of their marks
+  19:16:51,572  INFO Main:28 - Enter 7 to see all students name
+  19:16:51,573  INFO Main:29 - Enter 8 to exit
+  
